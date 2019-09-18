@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f9dd62d2-c90e-4f7a-9026-00d690ae3fea/resourceGroups/TestGroup/providers/Microsoft.Web/sites/fmpapitest",
+    "appService.deploySubpath": ""
+}
